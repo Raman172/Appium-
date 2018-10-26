@@ -20,7 +20,7 @@ public class WhatsApp {
 //		cap.setCapability("device", "Android");
 //		cap.setCapability("platformVersion", "7.0.0");
 //		cap.setCapability("platformName", "Android");
-		cap.setCapability("unlockType", "pattern");
+		
 		cap.setCapability("unlockKey", "95632147");
 		cap.setCapability("deviceName","Redmi");
 		
