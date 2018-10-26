@@ -16,12 +16,8 @@ public class WhatsApp {
 	public static void main(String[] args) throws MalformedURLException {
 		
 		DesiredCapabilities cap = new DesiredCapabilities();
-//		C:\Users\Raman\AppData\Local\Programs\Appium\resources\app\node_modules\appium\lib
-//		cap.setCapability("device", "Android");
-//		cap.setCapability("platformVersion", "7.0.0");
-//		cap.setCapability("platformName", "Android");
+		// This is Raman 
 		
-		// cap.setCapability("unlockKey", "95632147");
 		cap.setCapability("deviceName","Redmi");
 		
 		cap.setCapability("appPackage", "com.whatsapp");
