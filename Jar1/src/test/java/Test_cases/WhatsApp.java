@@ -16,9 +16,8 @@ public class WhatsApp {
 	public static void main(String[] args) throws MalformedURLException {
 		
 		DesiredCapabilities cap = new DesiredCapabilities();
-		// This is third Commit message
-		// let me know if a
-
+		// This is Raman 
+		
 		cap.setCapability("deviceName","Redmi");
 		
 		cap.setCapability("appPackage", "com.whatsapp");
